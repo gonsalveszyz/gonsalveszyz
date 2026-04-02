@@ -3,7 +3,6 @@
 **`Desenvolvedor Back-End`**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com grande interesse na área de Desenvolvimento de Software. Atualmente estou em busca da minha primeira oportunidade de estágio em Tecnologia da Informação, onde eu possa aplicar e aprimorar meus conhecimentos em desenvolvimento , Backend.
- estrelas GitHub" 
 
 ---
 
